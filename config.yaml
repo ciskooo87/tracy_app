@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    user1:
+      email: user1@email.com
+      name: Usuário 1
+      password: '$2b$12$Ztx6kqz/1hEzZ5dlz9UtuetUT6eFQp0QWqUlLUtP3X3ctFssAT2wC'  # senha: 1234
+
+cookie:
+  name: tracy_login
+  key: some_signature_key
+  expiry_days: 7
