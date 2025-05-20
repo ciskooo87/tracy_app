@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 7
+  key: some_signature_key
+  name: tracy_login
+credentials:
+  usernames:
+    camila:
+      email: camila@email.com
+      name: Camila
+      password: $2b$12$gKzEy7Njbw1kKn6MFfFZkOwTuRI0vRuMQC1efzDR/Xp3.rIaMswxq
