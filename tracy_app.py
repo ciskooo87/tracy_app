@@ -1,1 +1,0 @@
-Arquivo recriado — pronto para substituição do conteúdo anterior.
