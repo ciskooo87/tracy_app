@@ -27,7 +27,7 @@ if st.button("Enviar") and user_input:
         response = requests.post(
             url="https://openrouter.ai/api/v1/chat/completions",
             headers={
-                "Authorization": "Bearer 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",
+                "Authorization": "Bearer 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",
                 "Content-Type": "application/json"
             },
             json={
